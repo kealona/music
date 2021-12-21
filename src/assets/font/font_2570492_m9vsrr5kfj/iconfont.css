@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2570492 */
+  src: url('iconfont.woff2?t=1621933367842') format('woff2'),
+       url('iconfont.woff?t=1621933367842') format('woff'),
+       url('iconfont.ttf?t=1621933367842') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-msaixin:before {
+  content: "\e640";
+}
+
+.el-icon-msyinliang:before {
+  content: "\e63f";
+}
+
+.el-icon-msicon-test:before {
+  content: "\e62a";
+}
+
+.el-icon-msdiantaizhibo:before {
+  content: "\e65b";
+}
+
+.el-icon-msshangyishou:before {
+  content: "\e63c";
+}
+
+.el-icon-msxiayishou:before {
+  content: "\e63e";
+}
+
+.el-icon-msmusic:before {
+  content: "\e658";
+}
+
+.el-icon-mssonglist:before {
+  content: "\e660";
+}
+
+.el-icon-msplay:before {
+  content: "\e683";
+}
+
+.el-icon-msplay1:before {
+  content: "\e688";
+}
+
+.el-icon-mshuanfu:before {
+  content: "\e601";
+}
+

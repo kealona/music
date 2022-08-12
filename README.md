@@ -1,4 +1,5 @@
 # music
+基于Vue+Vue-router的在线音乐前端，基于Node.js的在线音乐
 
 > A Vue.js project
 
